@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: Element main jest już zdefiniowany w elemencie bitShift.obj
+C:\Users\wikto\source\repos\poiio\x64\Debug\poiio.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
